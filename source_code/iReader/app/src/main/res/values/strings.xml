@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">iReader</string>
+    <string name="title_activity_article_browse">ArticleBrowseActivity</string>
+    <string name="title_activity_word_summary">WordSummaryActivity</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="app_sub_title">from an interview with Shanbay</string>
+    <string name="app_author">power by KevinTong(童煜)</string>
 </resources>
